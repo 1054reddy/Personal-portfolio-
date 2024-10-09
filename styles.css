@@ -69,6 +69,7 @@ section {
 
 /* About Section */
 #about {
+    font-size: 17px;
     background-color: rgb(7, 237, 214);
     color: #333;
 }
